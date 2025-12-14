@@ -15,6 +15,16 @@ A powerful and easy-to-use animation library for React Native using `react-nativ
 ## Installation
 
 ```bash
+npm install rn-animation-kit
+# or
+yarn add rn-animation-kit
+```
+
+### Peer Dependencies
+
+This package requires `react-native-reanimated` (v3.0.0 or higher):
+
+```bash
 npm install react-native-reanimated
 # or
 yarn add react-native-reanimated
@@ -27,7 +37,7 @@ Follow the [react-native-reanimated installation guide](https://docs.swmansion.c
 ### Basic Example
 
 ```tsx
-import { FadeIn, SlideIn, ScaleIn } from './animations';
+import { FadeIn, SlideIn, ScaleIn } from 'rn-animation-kit';
 import { View, Text } from 'react-native';
 
 function App() {
@@ -416,7 +426,7 @@ function Toast({ visible, message }) {
 Pre-configured spring animations:
 
 ```tsx
-import { SPRING_CONFIGS } from './animations/config';
+import { SPRING_CONFIGS } from 'rn-animation-kit';
 
 // Available configs:
 SPRING_CONFIGS.default  // Balanced (damping: 14, stiffness: 75)
@@ -472,7 +482,7 @@ import type {
   SlideInProps,
   ScaleInProps,
   AnimationDirection,
-} from './animations';
+} from 'rn-animation-kit';
 ```
 
 ## License
