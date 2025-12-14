@@ -9,6 +9,9 @@ A powerful and easy-to-use animation library for React Native using `react-nativ
 https://github.com/user-attachments/assets/b0881382-9f49-4afe-ba72-7e058c8853fa
 
 <p><i>See the animations in action!</i></p>
+
+<img src="./assets/demo.gif" alt="rn-animation-kit demo" width="300"/>
+
 </div>
 
 ## Features ✨
