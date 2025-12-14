@@ -1,6 +1,6 @@
 {
   "name": "rn-animation-kit",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A powerful and easy-to-use animation library for React Native using react-native-reanimated. Includes FadeIn, SlideIn, ScaleIn, RotateIn, BounceIn, FlipIn, ZoomIn and composition components.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
