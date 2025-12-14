@@ -35,16 +35,16 @@
     "ios",
     "android"
   ],
-  "author": "Your Name <your.email@example.com>",
+  "author": "Noman Ali Akram",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/rn-animation-kit.git"
+    "url": "git+https://github.com/nomanaliakram321/rn-animation-kit.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/rn-animation-kit/issues"
+    "url": "https://github.com/nomanaliakram321/rn-animation-kit/issues"
   },
-  "homepage": "https://github.com/yourusername/rn-animation-kit#readme",
+  "homepage": "https://github.com/nomanaliakram321/rn-animation-kit#readme",
   "peerDependencies": {
     "react": ">=16.8.0",
     "react-native": ">=0.60.0",
