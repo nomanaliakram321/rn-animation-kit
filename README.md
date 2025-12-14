@@ -2,6 +2,14 @@
 
 A powerful and easy-to-use animation library for React Native using `react-native-reanimated`. Animate your components with simple wrapper components.
 
+## Demo
+
+<div align="center">
+  <img src="./assets/demo.gif" alt="rn-animation-kit demo" width="300"/>
+</div>
+
+<p align="center"><i>See the animations in action!</i></p>
+
 ## Features ✨
 
 - 🎭 **Multiple Animation Types**: FadeIn, SlideIn, ScaleIn, RotateIn, BounceIn, FlipIn, ZoomIn
