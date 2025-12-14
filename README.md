@@ -20,7 +20,7 @@ npm install react-native-reanimated
 yarn add react-native-reanimated
 ```
 
-Follow the [react-native-reanimated installation guide](https://docs.swmansion.com/react-native-reanimated/docs/fundamentals/installation) for additional setup.
+Follow the [react-native-reanimated installation guide](https://docs.swmansion.com/react-native-reanimated/docs/fundamentals/getting-started/) for additional setup.
 
 ## Usage
 
